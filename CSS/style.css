@@ -223,13 +223,21 @@ input[type="email" i] {
   margin-top: 100px;
 }
 
+.footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #0b0d17;
+  text-align: center;
+}
 #footer_content {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 32px;
   line-height: 44px;
   letter-spacing: 0.5px;
   color: #ff5959;
-  background: #0b0d17;
-  text-align: center;
+}
+
+.footer h2{
+  color:#dadada
 }
