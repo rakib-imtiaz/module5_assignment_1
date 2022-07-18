@@ -1,0 +1,95 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Playfair Display", serif;
+}
+
+h1 {
+  color: white;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 79px;
+}
+h3 {
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.donate-now-btn {
+  color: white;
+  background-color: tomato;
+  padding: 12px;
+  text-decoration: none;
+  border-radius: 9px;
+  font-size: 20px;
+}
+.banner {
+  background-image: url(../images/donation13.jpg);
+  padding-top: 50px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 75vh;
+  width: 100%;
+  text-align: center;
+}
+
+#donateHeader {
+  color: black;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 45px;
+  text-align: center;
+}
+
+#small_donation {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  text-align: center;
+
+  color: #707070;
+}
+
+.flex_containerOfDonations {
+  margin-left: 100px;
+  display: flex;
+}
+.internalBox {
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #707070;
+
+  height: 100px;
+  width: 25%;
+  box-sizing: border-box;
+}
+#redBorderedBox {
+  background: #ffeeee;
+  border: 2px solid #ff5959;
+  border-radius: 5px;
+}
+
+.amountBox{
+    
+padding-top: 50px;
+    text-align: center;
+    text-decoration: none;
+}
