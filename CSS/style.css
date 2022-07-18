@@ -195,8 +195,7 @@ input[type="text"] {
   height: 200px;
   background: #fff4d6;
   text-align: center;
-
-  margin-left: 320px;
+  margin-left: 200px;
 }
 
 .subscribe-btn {
@@ -238,6 +237,6 @@ input[type="email" i] {
   color: #ff5959;
 }
 
-.footer h2{
-  color:#dadada
+.footer h2 {
+  color: #dadada;
 }
